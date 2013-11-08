@@ -1,0 +1,7 @@
+Cucumber Scala Spike 
+=====================================
+
+Using the Cucumber Scala plugin https://github.com/skipoleschris/xsbt-cucumber-plugin
+
+
+Simple play project running cucucmber feature file 
